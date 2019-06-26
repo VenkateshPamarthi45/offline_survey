@@ -1,0 +1,20 @@
+{
+  "data":[
+    {
+      "display_text":"For Sure!He's done.",
+      "percentage":22
+    },
+    {
+      "display_text":"He still has lot left in his tank!",
+      "percentage":56
+    },
+    {
+      "display_text":"I am not interested...",
+      "percentage":8
+    },
+    {
+      "display_text":"Who? Is he still playing?",
+      "percentage":14
+    }
+  ]
+}

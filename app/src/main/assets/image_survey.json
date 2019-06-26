@@ -1,0 +1,24 @@
+{
+  "data":[
+    {
+      "display_text":"Tom Brady",
+      "percentage":22,
+      "image_url": "https://image.tmdb.org/t/p/w500/nl79FQ8xWZkhL3rDr1v2RFFR6J0.jpg"
+    },
+    {
+      "display_text":"Watson",
+      "percentage":56,
+      "image_url": "https://image.tmdb.org/t/p/w500/ny5aCtglk2kceGAuAdiyqbhBBAf.jpg"
+    },
+    {
+      "display_text":"Potter",
+      "percentage":8,
+      "image_url": "https://image.tmdb.org/t/p/w500/j9XKiZrVeViAixVRzCta7h1VU9W.jpg"
+    },
+    {
+      "display_text":"John",
+      "percentage":14,
+      "image_url": "https://image.tmdb.org/t/p/w500/6xKCYgH16UuwEGAyroLU6p8HLIn.jpg"
+    }
+  ]
+}
